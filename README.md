@@ -1,4 +1,4 @@
-![](/thumbnail.png)
+[![Uros Nesic website](https://github.com/unesic/unesic-io/raw/release/static/thumbnail.png)](https://unesic.io)
 
 # Hey there 👋🏻
 
