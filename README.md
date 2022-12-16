@@ -1,5 +1,10 @@
-[![Uros Nesic website](thumbnail-dark.png#gh-dark-mode-only)](https://unesic.io)
-[![Uros Nesic website](thumbnail-light.png#gh-light-mode-only)](https://unesic.io)
+<a href="https://unesic.io/" title="unesic.io" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="thumbnail-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="thumbnail-dark.png">
+    <img alt="Uros Nesic website" src="thumbnail-dark.png">
+  </picture>
+</a> 
 
 # Hey there 👋🏻
 
