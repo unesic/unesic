@@ -1,4 +1,5 @@
-[![Uros Nesic website](https://github.com/unesic/unesic-io/raw/release/static/thumbnail.png)](https://unesic.io)
+[![Uros Nesic website](thumbnail-dark.png#gh-dark-mode-only)](https://unesic.io)
+[![Uros Nesic website](thumbnail-light.png#gh-light-mode-only)](https://unesic.io)
 
 # Hey there 👋🏻
 
@@ -17,23 +18,22 @@ Want to know more about me? [Check out my website.](https://unesic.io)
 
 ![Core JavaScript](https://img.shields.io/badge/Core-JavaScript-informational?style=flat&logo=JavaScript&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Core TypeScript](https://img.shields.io/badge/Core-TypeScript-informational?style=flat&logo=TypeScript&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Front–end React](https://img.shields.io/badge/Front–end-React-informational?style=flat&logo=react&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Front–end React](https://img.shields.io/badge/Front–end-React-informational?style=flat&logo=React&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Front–end Redux](https://img.shields.io/badge/Front–end-Redux-informational?style=flat&logo=Redux&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Front–end Gatsby](https://img.shields.io/badge/Front–end-Gatsby-informational?style=flat&logo=gatsby&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Front–end Vue.js](https://img.shields.io/badge/Front–end-Vue.js-informational?style=flat&logo=Vue.js&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Front–end Gatsby](https://img.shields.io/badge/Front–end-Gatsby-informational?style=flat&logo=Gatsby&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Back–end Node.js](https://img.shields.io/badge/Back–end-Node.js-informational?style=flat&logo=Node.js&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Back–end Express.js](https://img.shields.io/badge/Back–end-Express.js-informational?style=flat&logo=Express&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Back–end GraphQL](https://img.shields.io/badge/Back–end-GraphQL-informational?style=flat&logo=GraphQL&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Back–end MongoDB](https://img.shields.io/badge/Back–end-MongoDB-informational?style=flat&logo=MongoDB&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![CMS WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 
-<details>
-  <summary>More skills</summary>
-  <br />
+### ...and also
 
 ![Style CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Style Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Style Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Style Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Tools VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Tools VS Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Tools VIM](https://img.shields.io/badge/Tools-VIM-informational?style=flat&logo=VIM&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Tools iTerm2](https://img.shields.io/badge/Tools-iTerm2-informational?style=flat&logo=iTerm2&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Tools git](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=00EAD0&labelColor=121721&color=1F2C47)
@@ -41,7 +41,6 @@ Want to know more about me? [Check out my website.](https://unesic.io)
 ![Tools Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Cloud Heroku](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Cloud Netlify](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Design Photoshop](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-![Design Illustrator](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Design Adobe Photoshop](https://img.shields.io/badge/Design-Adobe_Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=00EAD0&labelColor=121721&color=1F2C47)
+![Design Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=00EAD0&labelColor=121721&color=1F2C47)
 ![Design Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=00EAD0&labelColor=121721&color=1F2C47)
-</details>
