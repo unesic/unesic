@@ -1,4 +1,4 @@
-<a href="https://unesic.io/" title="unesic.io">
+<a href="https://unesic.dev/" title="unesic.dev">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="thumbnail-light.png">
     <source media="(prefers-color-scheme: dark)" srcset="thumbnail-dark.png">
@@ -10,7 +10,7 @@
 
 I'm Uroš, a software engineer currently specializing in full-stack web development with primary focus on the front-end technologies.
 
-Want to know more about me? [Check out my website.](https://unesic.io)
+Want to know more about me? [Check out my website.](https://unesic.dev)
 
 
 ## 📈 GitHub stats
